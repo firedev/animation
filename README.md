@@ -16,7 +16,7 @@
 ## Self-contained / Standalone
 
 * [**Animatron**](https://www.animatron.com/) — Design and publish animated and interactive content that plays everywhere
-* [**Google Web Designer**](https://www.google.com/webdesigner/) — Create engaging, interactive HTML5-based designs and motion graphics that can run on any device.
+* [**Google Web Designer**](https://www.google.com/webdesigner/) — Interactive HTML5-based designs and motion graphics.
 * [**Adobe Edge**](http://adobe.com/edge) — Dead
 * [**Adobe Animate**](http://www.adobe.com/products/animate.html) — Flash successor with HTML5/Canvas support
 * [**Tumult Hype**](http://tumult.com) — Interactive HTML animations 
