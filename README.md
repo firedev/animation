@@ -1,5 +1,9 @@
 # Web/React Animation Links
 
+* [**BodyMovin Showcase**](http://codepen.io/collection/nVYWZR/)
+* [**BodyMovin Showcase**](http://codepen.io/airnan/)
+* [**GreenSock Showcase**](http://greensock.com/examples-showcases)
+
 ## Libraries
 
 * [**GreenSock/GSAP**](http://greensock.com) — High-performance animation for the web
@@ -12,6 +16,7 @@
 * [**React GSAP Enhancer**](https://github.com/azazdeaz/react-gsap-enhancer) — Apply GSAP animations on components without side effects. Part of the Animachine.
 * [**React Motion**](https://github.com/chenglou/react-motion) — A spring that solves your animation problems.
 * [**Velocity React**](https://github.com/twitter-fabric/velocity-react) — React components for Velocity.js
+* [**BodyMovin**](https://github.com/bodymovin/bodymovin) — After Effects to SVG/JS exporter
 
 ## Self-contained / Standalone
 
