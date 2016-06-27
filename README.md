@@ -9,6 +9,7 @@
 * [**GreenSock/GSAP**](http://greensock.com) — High-performance animation for the web
 * [**Velocity**](http://julian.com/research/velocity/) — Animation engine with the same API as jQuery's `$.animate()`
 * [**React Animation**](https://facebook.github.io/react/docs/animation.html) — `ReactTransitionGroup` and `ReactCSSTransitionGroup`
+* [**Pixi.js**](http://www.pixijs.com/) — 2D webGL renderer with canvas fallback
 
 ## Repositories
 
