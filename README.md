@@ -25,4 +25,4 @@
 * [**Adobe Edge**](http://adobe.com/edge) — Dead
 * [**Adobe Animate**](http://www.adobe.com/products/animate.html) — Flash successor with HTML5/Canvas support
 * [**Tumult Hype**](http://tumult.com) — Interactive HTML animations 
-* [**Spine Animation](http://esotericsoftware.com/) — 2D Skeletal Animation
+* [**Spine Animation**](http://esotericsoftware.com/) — 2D Skeletal Animation
